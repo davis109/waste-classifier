@@ -1,4 +1,4 @@
-# AI-Powered Waste Classification & Chatbot
+# AI-Powered Waste Classification & Chatbot (To be improvised..)
 
 An intelligent web application for waste classification and sustainable waste management guidance.
 
